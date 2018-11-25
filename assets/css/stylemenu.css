@@ -43,6 +43,10 @@ header{
 	text-align: center;
 }
 
+button > a:hover{
+	text-decoration: none;
+}
+
 .btn{
 
 	
@@ -108,6 +112,13 @@ section{
 .icon-bar a:hover {
   background-color: lightgrey;
   border-left: 2px solid blue;
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+	
 }
 
 
